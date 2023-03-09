@@ -1,0 +1,15 @@
+{
+    "name": "nosql-social-netwrok",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongoose": "^6.9.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "almoral323"
+}
